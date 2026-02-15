@@ -1,4 +1,4 @@
-# NyaaySahayak – System Design
+# NyaaySahayak 
 
 ## Overview
 NyaaySahayak is a serverless, AI-powered, voice-first legal assistant designed for rural India.
